@@ -41,7 +41,7 @@
 import java.util.List;
 import java.util.Queue;
 import java.util.*;
-public class BFS {
+public class GP02BFS {
     public static List<Integer> bfsTraversal(int n, List<List<Integer>> adj){
         // Write your code here
 

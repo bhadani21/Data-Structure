@@ -31,7 +31,7 @@
 
 import java.util.*;
 
-public class DFS {
+public class GP03DFS {
     public static ArrayList<ArrayList<Integer>> depthFirstSearch(int v, int e, ArrayList<ArrayList<Integer>> edges) {
         // Write your code here.
         boolean vis[] = new boolean[v];

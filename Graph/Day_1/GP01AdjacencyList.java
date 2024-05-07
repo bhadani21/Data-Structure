@@ -29,7 +29,7 @@
 
 
 import java.util.*;
-public class AdjacencyList{
+public class GP01AdjacencyList{
     public static int[][] printAdjacency(int n, int m, int[][] edges) {
         // Write your code here.
 
